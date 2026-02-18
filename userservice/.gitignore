@@ -1,0 +1,13 @@
+# macOS
+.DS_Store
+
+# IntelliJ
+.idea/
+*.iml
+
+# Maven
+target/
+
+# Config
+*.properties
+.env
