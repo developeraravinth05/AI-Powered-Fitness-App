@@ -1,13 +1,13 @@
 server:
-  port: 8085
+  port: 8086
 
 spring:
   application:
-    name: activity-service
+    name: ai-service
 
   data:
     mongodb:
-      uri: mongodb://localhost:27017/FitnessActivity
+      uri: mongodb://localhost:27017/FitnessRecommendation
 
   rabbitmq:
     host: localhost
